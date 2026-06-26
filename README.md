@@ -14,7 +14,7 @@ BIAC-Net addresses this by combining:
 - a ViT-B/16** backbone for contextual feature extraction
 - a CBAM-based global refinement branch**
 - a depthwise separable convolution-based local refinement branch**
-- a idirectional cross-stream residual communication module**
+- a Bidirectional cross-stream residual communication module**
 - an adaptive gated fusion module**
 
 The framework is evaluated on Kvasir and ISIC 2018 for medical image classification.
